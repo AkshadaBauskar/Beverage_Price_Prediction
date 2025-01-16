@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/aksha/Downloads/resources_1/resources_1/mlruns/0/02d28a5bd0fd4de699b15fc76ac2045e/artifacts
+deleted_time: 1736810090579
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 02d28a5bd0fd4de699b15fc76ac2045e
+run_name: magnificent-frog-893
+run_uuid: 02d28a5bd0fd4de699b15fc76ac2045e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736802884559
+status: 1
+tags: []
+user_id: aksha

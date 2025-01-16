@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/328230316518311266/cd7b60d93f09450092974c4d77a5a45c/artifacts
+end_time: 1736804835722
+entry_point_name: ''
+experiment_id: '328230316518311266'
+lifecycle_stage: active
+run_id: cd7b60d93f09450092974c4d77a5a45c
+run_name: Logistic Regression
+run_uuid: cd7b60d93f09450092974c4d77a5a45c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736804824588
+status: 3
+tags: []
+user_id: aksha

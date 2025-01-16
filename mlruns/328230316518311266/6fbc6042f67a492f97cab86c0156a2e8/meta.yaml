@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/328230316518311266/6fbc6042f67a492f97cab86c0156a2e8/artifacts
+deleted_time: 1736810076439
+end_time: null
+entry_point_name: ''
+experiment_id: '328230316518311266'
+lifecycle_stage: deleted
+run_id: 6fbc6042f67a492f97cab86c0156a2e8
+run_name: puzzled-frog-979
+run_uuid: 6fbc6042f67a492f97cab86c0156a2e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736809188723
+status: 1
+tags: []
+user_id: aksha

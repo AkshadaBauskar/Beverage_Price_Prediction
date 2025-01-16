@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/328230316518311266/ac3b72398b11473c8fe127d14900f233/artifacts
+end_time: 1736804915236
+entry_point_name: ''
+experiment_id: '328230316518311266'
+lifecycle_stage: active
+run_id: ac3b72398b11473c8fe127d14900f233
+run_name: Light GBM
+run_uuid: ac3b72398b11473c8fe127d14900f233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736804900940
+status: 3
+tags: []
+user_id: aksha
